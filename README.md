@@ -24,3 +24,17 @@
 **Lab: 12 - Spring and REST**
 - [Resubmit Link](https://canvas.instructure.com/courses/1788625/assignments/13279355/submissions/24933294)
 - [PR Link](https://github.com/martinpapacodes/songr/pull/2)
+
+
+### Resubmits (January 27, 2020)
+
+**Code Challenge: Class 8**
+- [Resubmit Link](https://canvas.instructure.com/courses/1788625/assignments/13279449/submissions/24933294)
+- [PR Link](https://github.com/martinpapacodes/data-structures-and-algorithms/pull/27)
+
+
+**Career Coaching Workshop #1: Completed Resume**
+- [Resubmit Link](https://canvas.instructure.com/courses/1788625/assignments/13279427/submissions/24933294)
+- [PR Link](https://github.com/martinpapacodes/data-structures-and-algorithms/pull/27)
+
+
