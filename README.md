@@ -34,7 +34,8 @@
 
 
 **Career Coaching Workshop #1: Completed Resume**
-- [Resubmit Link](https://canvas.instructure.com/courses/1788625/assignments/13279427/submissions/24933294)
-- [PR Link](https://github.com/martinpapacodes/data-structures-and-algorithms/pull/27)
+- [Resubmit Link](https://canvas.instructure.com/courses/1788625/assignments/13279427)
+- [Resume Link](https://docs.google.com/document/d/12RYA9zE9Z6JxAsDug3WCNWiCq7Hmhi7Af_DdMnuIfDw/edit?usp=sharing)
+Note - I will add my projects later on and possibly some personal projects to my resume once I finished 401.
 
 
